@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin?logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-kotlin-33321?logo=kotlin&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 
 ---
@@ -44,7 +44,5 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fauzansyz)
 
 ---
-
-### Salam dari saya 
-
-### Nuhun
+<h2 center>Salam dari saya </h2>
+<h2 center>Nuhun</h2>
