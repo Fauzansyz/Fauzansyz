@@ -1,6 +1,6 @@
 # Hi Assalamu'alaikum, What's up? 👋  
 
-### 💻Fullstack Web & Mobile Developer
+### 💻 Fullstack Web & Mobile Developer
 - **Name**: Fauzan-Adzma   
 
 ---
@@ -44,5 +44,5 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fauzansyz)
 
 ---
-<h2 center>Salam dari saya </h2>
-<h2 center>Nuhun</h2>
+<h2 style="text-align:center;">Salam dari saya </h2>
+<h2 style="text-align:center;">Nuhun</h2>
