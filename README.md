@@ -49,10 +49,7 @@
 
 Kalian mau bikin web ?,dm gua di ig 
 
-[![Instagram]
-(https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?logo=instagram&logoColor=black)]
-(https://www.instagram.com/coding_ngin)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coding_ngin)
 ---
 <div align="center">
   
