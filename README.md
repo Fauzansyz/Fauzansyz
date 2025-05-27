@@ -44,6 +44,16 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Fauzansyz)
 
 ---
+
+## Jasa ?
+
+Kalian mau bikin web ?,dm gua di ig 
+
+[![Instagram]
+(https://img.shields.io/badge/Buy_Me_A_Coffee-F7CA88?logo=instagram&logoColor=black)]
+(https://www.instagram.com/coding_ngin)
+
+---
 <div align="center">
   
   ### Salam dari saya 
