@@ -28,12 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fauzansyz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzansyz&layout=compact&theme=radical)
-
----
-
 ## 💡 My Quotes:
 > _"Kode yang baik adalah kode yang mudah dibaca dan mudah dipahami, bukan hanya kode yang bekerja."_  
 > _"Seorang programmer tidak menulis kode untuk dirinya sendiri, tetapi untuk orang lain yang akan membacanya."_  
@@ -47,13 +41,7 @@
 
 ## Jasa ?
 
-Kalian mau bikin web ?,dm gua di ig 
+Kalian mau bikin web ?,dm saya di ig 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coding_ngin)
 ---
-<div align="center">
-  
-  ### Salam dari saya 
-
-  ### Nuhun
-</div>
