@@ -39,9 +39,7 @@
 
 ---
 
-## Jasa ?
-
-Kalian mau bikin web ?,dm saya di ig 
+## Media sosial 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/coding_ngin)
 
