@@ -19,6 +19,7 @@
 ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-kotlin-33321?logo=kotlin&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus&logoColor=white)
 
 ---
 
