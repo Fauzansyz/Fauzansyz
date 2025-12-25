@@ -29,8 +29,12 @@
 
 
 # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Fauzansyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Fauzansyz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzansyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](https://github-contributor-stats.vercel.app/api?username=Fauzansyz&limit=5&theme=dark&combine_all_yearly_contributions=true)<br />
+![](https://github-readme-stats.vercel.app/api?username=Fauzansyz&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fauzansyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 🌐 Socials:
